@@ -7,6 +7,6 @@
 
 | day   | Project Name    .     | source Code/preview |                       Live Link           |
 | :---  | :-------------------: | ------------------: |  ---------------------------------------: |
-| day-1 | Drag and Drop Browser | [Github repo](https://ramniwasmahala007.github.io/5_days5_Projects/) | [Live link](https://ramniwasmahala007.github.io/5_days5_Projects/1-Drag&Drop_Browser/) |
+| day-1 | Drag and Drop Browser | [Github repo](https://github.com/RamniwasMahala007/5_days5_Projects/tree/main/1-Drag%26Drop_Browser) | [Live link](https://ramniwasmahala007.github.io/5_days5_Projects/1-Drag&Drop_Browser/) |
 | day-2 |                       |                     |                                           |
 

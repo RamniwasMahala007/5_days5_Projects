@@ -3,11 +3,11 @@
 [Demo Here](https://ramniwasmahala007.github.io/5_days5_Projects/1-Drag&Drop_Browser/)
 
 ## Things I learned :--
->In HTML:
+> ### In HTML:
 
 - while adding the font awesome link, I used the class `<i class="fas fa-images"></i>` in which image icon generate.
 
->In CSS:
+> ### In CSS:
 
 - In css `background: -webkit-linear-gradient(to right #cfdef3, #e0eafc);` is used for only chrome and safari.
   - The `linear-gradient()` CSS function creates an image consisting of a progressive transition between two   or more colors along a straight line.
@@ -41,7 +41,7 @@
   ``` 
   here `img` class is made in js variable `imgTag` file for fix image size is upload in dragarea after applying `inerHTML` element property.
 
->In JavaScript:
+> ### In JavaScript:
 
 - `dragover event` dragover event is fired when an element or text selection is being dragged over a valid drop target.(matlab jab bhi file drag area ke upar se drop kare to use dragover kahte hai).
 
