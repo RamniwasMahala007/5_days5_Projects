@@ -7,7 +7,7 @@ let image = contain.querySelector(".image img")
 function qrCodeDisplay()
 {
     let qrValue = qrInput.value;
-    //console.log(qrValue)
+    console.log(qrValue)
     loader.style.display = "block";
     image.onload = function()
     {
@@ -17,6 +17,7 @@ function qrCodeDisplay()
    let api = ` https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=${qrValue}`;
 
    image.src = api;
+
 
 }
 
